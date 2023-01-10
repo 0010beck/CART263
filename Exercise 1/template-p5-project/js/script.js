@@ -8,8 +8,7 @@ Test
 
 
 function preload() {
-  // mySound = loadSound('assets/sounds/bark.wav');
-  // reverb = new p5.Reverb();
+ 
 }
 
 //sets up canvas
